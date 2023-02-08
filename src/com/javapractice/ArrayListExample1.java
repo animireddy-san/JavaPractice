@@ -20,6 +20,7 @@ public class ArrayListExample1 {
 		for(String s:ls)
 		{
 			//System.out.println(s);sfsdsgdg
+			//System.out.println("dsfssdgds");
 		}
 		System.out.println(ls.get(0));
 		
