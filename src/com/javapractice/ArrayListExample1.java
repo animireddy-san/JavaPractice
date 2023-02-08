@@ -21,6 +21,7 @@ public class ArrayListExample1 {
 		{
 			//System.out.println(s);sfsdsgdg
 			//System.out.println("dsfssdgds");
+				//System.out.println("dsfssdgds");
 		}
 		System.out.println(ls.get(0));
 		
